@@ -1,0 +1,15 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+  "contacts" : [
+      {
+        "id": 1, "title": "Work Contact 1", "name": "Rohit Tiwari" , "phone" : 8308017991, "address": "Pune 1"
+      }
+  ]
+}
+
